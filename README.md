@@ -3,9 +3,6 @@
 📝 **Description:**
 demonstrates querying a corpus for similar documents using Gensim.
 
-🔧 **Repo Name Suggestion:**
-Gensim-Similarity-Queries-Tutorial
-
 ## Creating the Corpus
 To begin, we need to create a corpus to work with. If you have already completed this step in a previous tutorial, feel free to skip to the next section.
 
