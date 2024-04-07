@@ -1,7 +1,7 @@
 # Gensim Similarity Queries
 
 ## 📝 **Description:**
-demonstrates querying a corpus for similar documents using Gensim.
+Demonstrates querying a corpus for similar documents using Gensim.
 
 ## Creating the Corpus
 To begin, we need to create a corpus to work with. If you have already completed this step in a previous tutorial, feel free to skip to the next section.
