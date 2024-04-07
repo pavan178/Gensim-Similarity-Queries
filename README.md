@@ -1,7 +1,7 @@
-# Gensim Similarity Queries Tutorial
+# Gensim Similarity Queries
 
 📝 **Description:**
-This tutorial demonstrates querying a corpus for similar documents using Gensim.
+demonstrates querying a corpus for similar documents using Gensim.
 
 🔧 **Repo Name Suggestion:**
 Gensim-Similarity-Queries-Tutorial
