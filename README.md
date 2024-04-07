@@ -1,6 +1,6 @@
 # Gensim Similarity Queries
 
-📝 **Description:**
+## 📝 **Description:**
 demonstrates querying a corpus for similar documents using Gensim.
 
 ## Creating the Corpus
